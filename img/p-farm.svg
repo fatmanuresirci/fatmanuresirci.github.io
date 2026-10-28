@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect x="4" y="4" width="112" height="112" rx="16" fill="#1b1020"/>
+<rect x="2" y="2" width="110" height="110" rx="16" fill="#b9b0c2" stroke="#1b1020" stroke-width="3"/>
+<g stroke="#1b1020" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 18 v86 M100 18 v86 M20 44 h80 M20 74 h80 M20 104 h80" fill="none"/><path d="M40 44 v-12 M40 38 c-8 -2 -10 -10 -10 -10 c8 0 10 6 10 10 c0 -4 2 -10 10 -10 c0 0 -2 8 -10 10" fill="#3ad1c7"/><path d="M66 44 v-12 M66 38 c-8 -2 -10 -10 -10 -10 c8 0 10 6 10 10 c0 -4 2 -10 10 -10 c0 0 -2 8 -10 10" fill="#3ad1c7"/><path d="M40 74 v-12 M40 68 c-8 -2 -10 -10 -10 -10 c8 0 10 6 10 10 c0 -4 2 -10 10 -10 c0 0 -2 8 -10 10" fill="#3ad1c7"/><path d="M66 74 v-12 M66 68 c-8 -2 -10 -10 -10 -10 c8 0 10 6 10 10 c0 -4 2 -10 10 -10 c0 0 -2 8 -10 10" fill="#3ad1c7"/><path d="M52 104 v-12 M52 98 c-8 -2 -10 -10 -10 -10 c8 0 10 6 10 10 c0 -4 2 -10 10 -10 c0 0 -2 8 -10 10" fill="#3ad1c7"/><circle cx="88" cy="32" r="6" fill="#ffd23f"/><path d="M80 24 a12 12 0 0 1 16 0" fill="none"/></g>
+</svg>
