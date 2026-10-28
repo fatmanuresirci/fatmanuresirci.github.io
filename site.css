@@ -93,4 +93,4 @@ footer a { color:var(--muted); }
 .top .crew img { height:34px; width:auto; display:block; }
 @media (max-width:820px) { .top .crew { display:none; } .top .who { flex:1; } }
 .hero .art { width:100%; height:auto; min-height:0; padding:18px 22px 18px 0; box-sizing:border-box; }
-.hero .art { max-height:330px; }
+.hero .art { max-height:385px; padding-top:8px; padding-bottom:8px; }
