@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fatmanuresirci.github.io/sitemap.xml
